@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Komal Verma
-- 👀 I’m interested in Cybersecurity and Ethical hacking program. i have completed my diploma in Computer Science Engineering.
+- 👋 Hi, I’m Komal Verma, Computer Engineer.
+- 👀 I’m interested in Cybersecurity and Ethical hacking program. I have completed my diploma in Computer Science Engineering.
 - 🌱 I have completed Cybersecurity course from ICT (Institute of Cyber Technologies)
 - 💞️ I’m looking to collaborate on python projects and to solve issues related to security and networking.
 - 📫 To reach me you can mail me on krathour5678@gmaoil.com.
